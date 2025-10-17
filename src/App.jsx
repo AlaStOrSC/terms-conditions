@@ -9,7 +9,7 @@ function App() {
         <section>
           <h2>1. Collecte des données</h2>
           <p>
-            Nous collectons des informations lorsque vous remplissez des formulaires sur notre site 
+            Nous collectons des informations lorsque vous remplissez des formulaires sur notre site{' '}
             <strong>environnementenergie.fr</strong>. Les données collectées peuvent inclure votre nom, adresse e-mail, 
             numéro de téléphone, etc.
           </p>
@@ -44,7 +44,7 @@ function App() {
           <p>
             Conformément à la réglementation en vigueur, vous disposez d'un droit d'accès, de rectification, 
             d'opposition et de suppression de vos données personnelles. Pour exercer ces droits, veuillez 
-            nous contacter à l'adresse suivante : 
+            nous contacter à l'adresse suivante :{' '}
             <a href="mailto:contact@environnementenergie.fr">contact@environnementenergie.fr</a>.
           </p>
         </section>
