@@ -9,9 +9,7 @@ function App() {
         <section>
           <h2>1. Collecte des données</h2>
           <p>
-            Nous collectons des informations lorsque vous remplissez des formulaires sur notre site{' '}
-            <strong>environnementenergie.fr</strong>. Les données collectées peuvent inclure votre nom, adresse e-mail, 
-            numéro de téléphone, etc.
+            Nous collectons des informations lorsque vous remplissez le formulaire Meta. Les données collectées peuvent inclure votre nom, adresse e-mail, numéro de téléphone, etc.
           </p>
         </section>
 
@@ -45,14 +43,14 @@ function App() {
             Conformément à la réglementation en vigueur, vous disposez d'un droit d'accès, de rectification, 
             d'opposition et de suppression de vos données personnelles. Pour exercer ces droits, veuillez 
             nous contacter à l'adresse suivante :{' '}
-            <a href="mailto:contact@environnementenergie.fr">contact@environnementenergie.fr</a>.
+            <a href="mailto:contact@termesetconditions.com">contact@termesetconditions.com</a>.
           </p>
         </section>
 
         <section>
           <h2>6. Cookies</h2>
           <p>
-            Le site <strong>environnementenergie.fr</strong> utilise des cookies pour améliorer votre expérience de navigation. 
+            Le site <strong>termesetconditions.com</strong> utilise des cookies pour améliorer votre expérience de navigation. 
             Vous pouvez configurer votre navigateur pour refuser les cookies.
           </p>
         </section>
